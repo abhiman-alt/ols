@@ -7,6 +7,6 @@ Usage:
 
 cd ols
 
-./ols.sh
+bash ols.sh
 
 Follow the inside given instructions, done!

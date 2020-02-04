@@ -9,7 +9,7 @@ lolcat
 
 For Installing Lolcat
 
-pkg install python
+pkg install python &&
 pip install lolcat
 
 

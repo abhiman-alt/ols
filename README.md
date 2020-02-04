@@ -5,6 +5,8 @@ A generic Shell Encoder which turns MultiLine shell to single line base64 encode
 
 Usage:
 
+cd ols
+
 ./ols.sh
 
 Follow the inside given instructions, done!

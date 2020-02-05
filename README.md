@@ -17,3 +17,9 @@ Execute bash ols.sh
 Follow the inside given instructions, 
 
 Your output file will store in 'out' directory. done!
+
+# usage
+
+git clone https://github.com/abhiman-alt/ols.git
+cd ols
+bash ols.sh

@@ -1,6 +1,7 @@
 #!/bin/bash
 # CodedBy @lts_Abhiman
 # OneLineShell Encoder
+# (You dont become a coder by just changing the credits)
 
 dependencies() {
 

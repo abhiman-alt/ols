@@ -2,6 +2,12 @@
 # CodedBy @lts_Abhiman
 # OneLineShell Encoder
 
+dependencies() {
+
+command -v lolcat > /dev/null 2>&1 || { echo >&2 "I require lolcat but it's not installed. Install it. Aborting."; exit 1; }
+
+}
+
 
 b64() {
 
@@ -38,7 +44,7 @@ printf "
                          |__|\e[0m\e[1;92mCreator @lts_Abhiman\e[0m                     "
 
 }
-
+dependencies
 clear
 banner | lolcat
 echo -e "\n\nEncode Your Multiline shell in single line base64\n#OneLineShell" | lolcat

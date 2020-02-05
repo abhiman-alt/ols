@@ -3,20 +3,17 @@ MultiLine Shell to One Line Shell Encoder (base64)
 
 A generic Shell Encoder which turns MultiLine shell to single line base64 encoded shell for easy handling!
 
-Dependencies:
-
-lolcat
+Dependencies: lolcat
 
 For Installing Lolcat
 
 pkg install python &&
 pip install lolcat
 
+Copy your shell to 'in' directory
 
-Usage:
+Execute bash ols.sh 
 
-cd ols
+Follow the inside given instructions, 
 
-bash ols.sh
-
-Follow the inside given instructions, done!
+Your output file will store in 'out' directory. done!
